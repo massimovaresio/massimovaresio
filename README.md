@@ -18,11 +18,24 @@
 
 ###
 
-<p align="left">I currently work as an IT professional in the Public Sector. Main areas:<br><ul><li>e-procurement of IT services</li><li>requirements engineering</li><li>open data policies</li><li>user management and authorizations for the document system</li></ul></p>
+<p align="left">I currently work as an IT professional in the Public Sector. Main areas:<br>
+<ul>
+  <li>e-procurement of IT services</li>
+  <li>requirements engineering</li>
+  <li>open data policies</li>
+  <li>user management and authorizations for the document system</li>
+</ul>
+</p>
 
 ###
 
-<p align="left">Previously I worked as a software developer, focusing on these areas:<br>- SaaS UX design<br>- SEO and SEM optimization<br>- privacy compliance</p>
+<p align="left">Previously I worked as a software developer, focusing on these areas:<br>
+<ul>
+  <li>SaaS UX design</li>
+  <li>SEO and SEM optimization</li>
+  <li>privacy compliance</li>
+</ul>
+</p>
 
 ###
 
@@ -34,7 +47,13 @@
 
 ###
 
-<p align="left">Previously:<br>- Bachelor's Degree in Business Administration (L-18), majoring in Digital Economy, at "Università degli Studi di Torino"<br>- Post-diploma professional training as a network systems technician at "En.A.I.P. Piemonte ETS - Cuneo"<br>- High school diploma in science at "Liceo Scientifico Giolitti-Gandino di Bra"</p>
+<p align="left">Previously:<br>
+<ul>
+  <li>Bachelor's Degree in Business Administration (L-18), majoring in Digital Economy, at "Università degli Studi di Torino"</li>
+  <li>Post-diploma professional training as a network systems technician at "En.A.I.P. Piemonte ETS - Cuneo"</li>
+  <li>High school diploma in science at "Liceo Scientifico Giolitti-Gandino di Bra"</li>
+</ul>
+</p>
 
 ###
 
