@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I currently work as an IT professional in the Public Sector. Main areas:<br>- e-procurement of IT services<br>- requirements engineering<br>- open data policies<br>- user management and authorizations for the document system</p>
+<p align="left">I currently work as an IT professional in the Public Sector. Main areas:<br><ul><li>e-procurement of IT services</li><li>requirements engineering</li><li>open data policies</li><li>user management and authorizations for the document system</li></ul></p>
 
 ###
 
