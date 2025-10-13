@@ -125,6 +125,6 @@
 
 ###
 
-<p align="left">Connect with me on [Linkedin](https://www.linkedin.com/in/massimo-varesio-9a520a141/)</p>
+<p align="left">Connect with me on <a href="https://www.linkedin.com/in/massimo-varesio-9a520a141/" target="blank">Linkedin</a [Linkedin]()</p>
 
 ###
