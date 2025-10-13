@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Massimo, an IT specialist from 🇮🇹 with a strong interest in computer science and cybersecurity.</p>
+<p align="left">I'm Massimo, an 🇮🇹 specialist from 🇮🇹 with a strong interest in computer science and cybersecurity.</p>
 
 ###
 
