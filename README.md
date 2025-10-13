@@ -106,6 +106,6 @@
 
 ###
 
-<p align="left">Connect with me on Linkedin</p>
+<p align="left">Connect with me on [Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/massimo-varesio-9a520a141/))</p>
 
 ###
