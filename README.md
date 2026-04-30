@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐞 Creating bugs since 2018<br>📚 Lifelong learner<br>🎯 Goals: face the daily chaos with awareness<br>😻 Love my cats<br>✨ Hobby: ⛰hiking, 🥋karate, 🧘‍♂️meditation</p>
+<p align="left">🐞 Creating bugs since 2018<br>📚 Lifelong learner<br>🎯 Goals: face the daily chaos with awareness<br>😻 Love my cats<br>✨ Hobby: ⛰hiking, 🥊mma, 🧘‍♂️meditation</p>
 
 ###
 
