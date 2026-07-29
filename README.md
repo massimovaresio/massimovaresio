@@ -1,7 +1,7 @@
 # Hey, I'm Massimo 👋
 
 <p align="left">
-  <strong>IT Specialist @ Public Sector</strong> | <strong>M.Sc. Student in AI & Digital Innovation</strong>
+  <strong>IT Specialist in Public Sector</strong> | <strong>M.Sc. Student in AI & Digital Innovation</strong>
 </p>
 
 ---
