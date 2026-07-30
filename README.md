@@ -86,9 +86,7 @@ I'm an IT professional operating in the public sector with a background spanning
     <img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Full CV" />
   </a>
   <br>
-  <a href="https://bestr.it/backpack/collection/show/OTA3MTk5ODctNTJmMS00ZmQ1LWJmMjMtZDVhZWYyMDM3Nzhi" target="_blank">
-    <img src="https://img.shields.io/badge/Verified_Badges-Bestr-00A896?style=for-the-badge&logo=badge&logoColor=white" alt="Bestr e-portfolio" />
-  </a>
+  [![Bestr e-portfolio](https://img.shields.io/badge/Verified_Badges-Bestr-00A896?style=for-the-badge&logo=badge&logoColor=white)](https://bestr.it/backpack/collection/show/OTA3MTk5ODctNTJmMS00ZmQ1LWJmMjMtZDVhZWYyMDM3Nzhi)
 </p>
 
 <!-- 
