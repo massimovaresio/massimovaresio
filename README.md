@@ -23,12 +23,12 @@ I'm an IT professional operating in the public sector with a background spanning
 
 ### 💼 Work experience
 
-#### **IT specialist** | *Public Sector*
+#### **IT specialist** | *Public Sector - current*
 * Requirements engineering & IT service e-procurement.
 * Open Data policies and public sector data governance.
 * User management, authorization frameworks, and document management systems.
 
-#### **Software developer** | *Previous Role*
+#### **Software developer** | *Previous role*
 * SaaS UX/UI architecture and design.
 * SEO/SEM strategic optimization.
 * Data privacy compliance and workflow automation.
