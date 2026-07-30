@@ -53,6 +53,7 @@ I'm an IT professional operating in the public sector with a background spanning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" />
@@ -65,7 +66,7 @@ I'm an IT professional operating in the public sector with a background spanning
 
 <details>
 <summary><strong>🔍 Other tools and technologies</strong></summary>
-<br />
+<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
@@ -84,7 +85,7 @@ I'm an IT professional operating in the public sector with a background spanning
   <a href="./Massimo_Varesio_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Full CV" />
   </a>
-  
+  <br>
   <a href="https://bestr.it/backpack/collection/show/OTA3MTk5ODctNTJmMS00ZmQ1LWJmMjMtZDVhZWYyMDM3Nzhi" target="_blank">
     <img src="https://img.shields.io/badge/Verified_Badges-Bestr-00A896?style=for-the-badge&logo=badge&logoColor=white" alt="Bestr e-portfolio" />
   </a>
